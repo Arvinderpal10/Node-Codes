@@ -1,0 +1,6 @@
+1. npm install - is used to generate the node_module folder 
+node_module is needed to run all the npm modules like validator , chalk etc.
+2. Chalk module - is used to print in colors
+3. validator module - is used to validate Emails , Url and Casing (Upper or Lower)
+4. Global Module nodemon- aalows us to run the command simultaneusly as we get in live 
+server.
